@@ -3,5 +3,5 @@
 TO CREATE A RESTAURANT REVIEW FEEDBACK ANALYSIS USING PHP
 FIRST INSTALL XAMPP IN YOUR PC
 THEN START APACHE and MYSQL 
-create your file in vscode and then run
+create your file in vscode and then run the application
 
