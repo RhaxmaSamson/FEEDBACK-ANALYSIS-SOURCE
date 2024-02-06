@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: cursive, Apple Chancery;
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(221, 219, 219, 0.575);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.877);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.chart-container {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 0 auto;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.suggestion {
+    background-color: rgba(221, 219, 219, 0.575);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: #333;
+}
